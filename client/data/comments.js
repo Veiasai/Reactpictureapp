@@ -1,144 +1,77 @@
 const comments = {
     "a":[
     {
-      "text":"Wes. WE should have lunch.",
-      "user": "jdaveknox"
+      "text":"我觉得可以",
+      "user": "侯摸鱼"
     },
     {
-      "text":"#adults",
-      "user": "jdaveknox"
+      "text":"我觉得不行",
+      "user": "猪妖"
     },
     {
-      "text":"@jdaveknox yes!",
-      "user": "wesbos"
+      "text":"啥玩意？",
+      "user": "大佬李"
     },
     {
-      "text":"😍 love Hamilton!",
-      "user": "willowtreemegs"
+      "text":"卡模选手笑嘻嘻",
+      "user": "见思女神"
     }
   ],
   "b":[
     {
-      "text":"Those are cute! They're like silver dollar pancakes.",
-      "user": "rrsimonsen"
-    },
-    {
-      "text":"I like baby pancakes but gluten free please!! I'll bring the coffee!! See you in 6 days!!!!!! 😝😛😝♥️",
-      "user": "terzisn"
-    },
-    {
-      "text":"... and apparently growing baby. 👀. Yum.",
-      "user": "henrihelvetica"
-    },
-    {
-      "text":"@wesbos 👍 my daughter is a pancake eating machine!",
-      "user": "brentoage"
-    },
-    {
-      "text":"Nice stove!",
-      "user": "haaps"
-    },
-    {
-      "text":"Genius bottle use! Do you make a single batch of batter or make a lot and freeze it?",
-      "user": "gobananna"
-    },
-    {
-      "text":"@gobananna I just made a batch and put in in a FIFO bottle. Keeps in the fridge for a few days.",
-      "user": "wesbos"
-    },
-    {
-      "text":"@haaps thanks! It's a Jenn air - so nice to cool with!",
-      "user": "wesbos"
-    },
-    {
-      "text":"Where would you go and for how long, if you had location freedom? - Greg 🌎",
-      "user": "world_greg"
+      "text":"旧照片..",
+      "user": "Veia"
     }
   ],
   "c":[
     {
-      "text":"Looking great Wes! I'd like to see the other side of the room too.",
-      "user": "axcdnt"
+      "text":"带我飞吧",
+      "user": "路人"
     },
     {
-      "text":"I've never caught your podcast. Have one right? Btw - they don't have a Canary pillow? 😝",
-      "user": "henrihelvetica"
+      "text":"不要迷恋哥",
+      "user": "Veia"
     },
     {
-      "text":"Great way to start the year.",
-      "user": "pmgllc"
+      "text":"王者时刻，硬币双排",
+      "user": "然然"
     },
-    {
-      "text":"Are there 4k monitors?",
-      "user": "alexbaumgertner"
-    },
-    {
-      "text":"@axcdnt that is where I put all the junk. I'll have to clean that side too @henrihelvetica no podcast yet! @pmgllc ohh yeah! @alexbaumgertner yep - the main one is 4K - I'm loving it",
-      "user": "wesbos"
-    },
-    {
-      "text":"That chrome pillow. 😉",
-      "user": "imagesofthisandthat"
-    },
-    {
-      "text":"@wesbos is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.",
-      "user": "henrihelvetica"
-    },
-    {
-      "text":"#minimalsetups",
-      "user": "wesbos"
-    }
+
   ],
   "d":[
     {
-      "text":"that is the sound of success!",
-      "user": "mdxprograms"
+      "text":"随便选选",
+      "user": "Veia"
     }
   ],
   "e":[
     {
-      "text":"Did she get to eat her letter?",
-      "user": "pathiebert"
-    },
-    {
-      "text":"Nope @pathiebert! She has too much teeth now (8) so that would definitely be her first cavity 😉",
-      "user": "kaitbos"
+      "text":"要是世上真有就好",
+      "user": "Veia"
     }
   ],
   "f":[
     {
       "text":"A+",
-      "user": "mrjoedee"
-    },
-    {
-      "text":"I recently went to a ramen place in Philly. So amazing!",
-      "user": "jrtashjian"
+      "user": "Veia"
     }
   ],
   "g":[
     {
-      "text":"All bundled up!  Where ya goin?",
-      "user": "sophie_and_sadie"
+      "text":"动漫",
+      "user": "Veia"
     }
   ],
   "h":[
     {
-      "text":"Super congrats! That's wicked cool and looks great.",
-      "user": "pmgllc"
-    },
-    {
-      "text":"real live paper magazine? woah haha. flex box is awesome though, could rage quit without it",
-      "user": "tjholowaychuk2"
-    },
-    {
-      "text":"@tjholowaychuk2 haha yes! Old school stylez!",
-      "user": "wesbos"
+      "text":"这头像还能用很久",
+      "user": "Veia"
     }
   ],
   "i":[
       {
-          "text":"@tjholowaychuk2 haha yes! Old school stylez!",
-          "user": "wesbos"
+          "text":"动漫",
+          "user": "Veia"
       }
   ],
 };
